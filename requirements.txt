@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+numpy
+inference_sdk
+scikit-learn==1.2.2
+pydantic
+Pillow
+python-multipart
